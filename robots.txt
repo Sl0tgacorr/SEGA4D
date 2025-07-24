@@ -1,0 +1,5 @@
+User-agent:  *
+Disallow: 
+disallow: /cgi-bin/
+
+Sitemap: https://sl0tgacorr.github.io/SEGA4D/sitemap.xml
